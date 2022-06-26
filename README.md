@@ -5,8 +5,12 @@
 Create a tutorial that explains a specific regular expression functions by breaking down each part of the expression and describing what it does.
 
 ## Table of Contents
-
-
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 ## Installation
 
